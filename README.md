@@ -1,4 +1,6 @@
 #### ISS-2021
 * This is Lab-1.
-* HI 
+* Timing: 2-5pm Every friday
+* Holaaaaaa
+* Hi
 
